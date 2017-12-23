@@ -1,2 +1,2 @@
-# geekankit318.github.io
-contains my personal website
+# cruxbreaker.github.io
+Contains my personal website & portfolio.
